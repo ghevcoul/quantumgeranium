@@ -8,6 +8,7 @@ SITEURL = 'http://quantumgeranium.com'
 DEFAULT_PAGINATION = 10
 DEFAULT_LANG = 'en'
 TIMEZONE = 'America/Los_Angeles'
+THEME = 'theme/'
 
 # Settings controlling conversion to HTML
 PATH = 'content'
