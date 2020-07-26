@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
+# Set to True for local testing
+RELATIVE_URLS = False
+
 # Basic settings defining the site
 AUTHOR = 'Gavin Heverly-Coulson'
 SITENAME = 'Quantum Geranium'
