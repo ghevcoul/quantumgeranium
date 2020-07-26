@@ -7,7 +7,7 @@ RELATIVE_URLS = False
 # Basic settings defining the site
 AUTHOR = 'Gavin Heverly-Coulson'
 SITENAME = 'Quantum Geranium'
-SITEURL = 'http://quantumgeranium.com'
+SITEURL = 'https://ghevcoul.github.io/quantumgeranium'
 DEFAULT_PAGINATION = 10
 DEFAULT_LANG = 'en'
 TIMEZONE = 'America/Los_Angeles'
