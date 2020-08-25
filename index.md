@@ -21,3 +21,15 @@ On that project, I have owned the project's CI/CD pipeline in Gitlab and built o
 I came to location technologies via a PhD in computational chemistry.
 After completing my doctorate, I realized I had been more interested in the *computational* part of my studies than the chemistry (the fact I took computer science courses for nearly all my electives during undergrad should have been an early clue) and decided to make the jump from academia to the tech industry. 
 
+
+## Resume
+### Work Experience
+* Mar 2019 -- Current, *HERE Technologies*, Lead Research Engineer
+* Jun 2016 -- Mar 2019, *HERE Technologies*, Senior Research Engineer
+* Jan 2016 -- Mar 2016, *Civil Maps*, Systems Engineer
+
+### Education
+* Spring 2015, *The Data Incubator*, Data Science Fellow
+* Sep 2012 -- Dec 2014, *Queen's University*, Kingston, Ontario, Postdoctoral Fellow
+* May 2008 -- Jul 2012, *Dalhousie University*, Halifax, Nova Scotia, PhD
+* Sep 2004 -- Apr 2008, *Bishop's University*, Sherbrooke, Quebec, BSc Honours
