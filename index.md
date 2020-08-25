@@ -18,7 +18,7 @@ More recently, I joined a team building a streaming location data processing app
 On that project, I have owned the project's CI/CD pipeline in Gitlab and built out our deployment process on Kubernetes. 
 
 
-I came to location technologies via a PhD in computational chemistry.
+I came to location technologies via a PhD in [computational chemistry](/blog/gay-lussac-kohn-pople).
 After completing my doctorate, I realized I had been more interested in the *computational* part of my studies than the chemistry (the fact I took computer science courses for nearly all my electives during undergrad should have been an early clue) and decided to make the jump from academia to the tech industry. 
 
 

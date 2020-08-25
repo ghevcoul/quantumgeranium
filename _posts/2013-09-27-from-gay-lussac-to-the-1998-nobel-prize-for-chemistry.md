@@ -2,7 +2,7 @@
 layout: post
 title: From Gay-Lussac to the 1998 Nobel Prize in Chemistry
 author: Gavin
-slug: thesis-excerpt-computational-chemistry
+slug: gay-lussac-kohn-pople
 ---
 
 One of the members of my current research group is defending her
