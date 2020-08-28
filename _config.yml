@@ -24,7 +24,6 @@ twitter_username: gavin_h_c
 github_username:  ghevcoul
 
 # Build settings
-# theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 
 # plugins:
