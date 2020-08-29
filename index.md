@@ -14,9 +14,27 @@ subtitle: The digital home of Gavin Heverly-Coulson
 
 
 # What can I do?
-I am a big data developer who specializes in scalable algorithm development and building distributed data processing pipelines.
-Throughout my career, I've used MapReduce, Kafka, and Flink to build these systems working in Python, C++, and Scala.
-Additionally, I am versed in modern CI/CD practices, using Gitlab Pipelines to handle testing, build, and deployment.
+* Scalable algorithm development
+* Build distributed data processing pipelines
+* CI/CD pipelines
+
+## Tools I use
+### Programming Languages
+* Python
+* C++
+* Scala
+* Shell scripting
+
+### Data Frameworks
+* MapReduce
+* Kafka
+* Flink
+* PostgreSQL
+
+### Deployment Tools
+* Kubernetes + Helm
+* Docker
+* AWS -- EMR, EC2, Sagemaker, Cloudformation, Step Functions, Lambda
 
 
 # Resume
