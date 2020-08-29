@@ -33,6 +33,7 @@ remote_theme: chrisrhymes/bulma-clean-theme
 paginate: 10
 paginate_path: "/blog/page:num"
 excerpt_separator: <!--more-->
+hide_share_buttons: true
 
 collections:
   posts:
