@@ -1,3 +1,5 @@
+- name: Biography
+  link: biography
 - name: Publications
   link: publications
 - name: Blog
