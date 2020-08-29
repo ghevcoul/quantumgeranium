@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Biography
-subtitle: More than you ever needed to know about me
+title: About me
+subtitle: More than you ever needed to know
+slug: about-me
 ---
 
 I came to a career in tech and living in California via a rather circuitous route.
