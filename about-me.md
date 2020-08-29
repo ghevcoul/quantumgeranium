@@ -34,4 +34,11 @@ My research group did all their work with an open source simulation package call
 As I did my project, we came across a paper detailing a new simulation technique that was perfect for what I needed to do, but hadn't been added to Quantum ESPRESSO yet, so I got to spend a few months digging into this large Fortran codebase and implement this new method.
 The other major thing that happened while doing my postdoc (other than meeting my wonderful spouse, that is) was that I came to realize an academic career wasn't what I wanted.
 
+TODO: Write something about making the switch to industry
 
+I currently work at [HERE Technologies](https://www.here.com/) as a software developer, focusing on scalable geospatial algorithms and data pipelines.
+In my time at HERE, I've worked in algorithm development, filed for a US patent, maintained webapps and pipelines with internal users, and owned the CI/CD process for a production data engineering application.
+Starting my career there in the Research organization, I spent a few years focused on using GPS probe data for map maintenance and real-time traffic prediction, culminating in a project to predict road closures from probe data which was published in a [special issue of the ACM journal TSAS](https://doi.org/10.1145/3325912) and a [patent application](https://patents.justia.com/patent/20200105134).
+After that, I left the Research organization and participated in the development of a change detection pipeline using sensor data from vehicles to detect missing or changed map features on the road. 
+More recently, I joined a team building a streaming location data processing application using Flink and Scala.
+On that project, I have owned the project's CI/CD pipeline in Gitlab and built out our deployment process on Kubernetes. 
