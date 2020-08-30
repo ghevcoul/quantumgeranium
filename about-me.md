@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: More than you ever needed to know
+subtitle: A whirlwind tour through my career
 slug: about-me
 ---
 
@@ -34,11 +34,35 @@ My research group did all their work with an open source simulation package call
 As I did my project, we came across a paper detailing a new simulation technique that was perfect for what I needed to do, but hadn't been added to Quantum ESPRESSO yet, so I got to spend a few months digging into this large Fortran codebase and implement this new method.
 The other major thing that happened while doing my postdoc (other than meeting my wonderful spouse, that is) was that I came to realize an academic career wasn't what I wanted.
 
-TODO: Write something about making the switch to industry
+This was late 2014, when data science was exploding in tech and there were pieces being written daily about data as the next oil boom and how any company that wasn't building a data team was going to be left behind.
+Looking at all this, I realized that I was exactly the kind of person these articles said was becoming data scientists -- advanced degree in STEM, knew how to write code, looking for a career in the tech industry -- so I started working toward it.
+I began with taking the top-rated Coursera track in data science and reading all I could about data science.
+At the time, it felt like data science was an ill-defined concept that included everything from web-scraping and exploratory data analysis to advanced machine learning models.
+I remember reading an article at one point that there were three "stages" to data science:
+1. Data extraction, cleanup, and preparation (what the industry now calls Data Engineering)
+2. Data analysis and modelling
+3. Presentation of the results
 
-I currently work at [HERE Technologies](https://www.here.com/) as a software developer, focusing on scalable geospatial algorithms and data pipelines.
-In my time at HERE, I've worked in algorithm development, filed for a US patent, maintained webapps and pipelines with internal users, and owned the CI/CD process for a production data engineering application.
-Starting my career there in the Research organization, I spent a few years focused on using GPS probe data for map maintenance and real-time traffic prediction, culminating in a project to predict road closures from probe data which was published in a [special issue of the ACM journal TSAS](https://doi.org/10.1145/3325912) and a [patent application](https://patents.justia.com/patent/20200105134).
-After that, I left the Research organization and participated in the development of a change detection pipeline using sensor data from vehicles to detect missing or changed map features on the road. 
-More recently, I joined a team building a streaming location data processing application using Flink and Scala.
-On that project, I have owned the project's CI/CD pipeline in Gitlab and built out our deployment process on Kubernetes. 
+I really latched onto this model of data science and used it to guide my own discussions of the work.
+In interviews, when asked what I wanted to work on, I would explain this model and confidently state that I was most interested in stages 1 and 3.
+In the spring of 2015, I participated in a 6 week data science boot camp program called [the Data Incubator](https://www.thedataincubator.com/) designed specifically for STEM PhDs to transition to careers in data science.
+The program was great, it gave me my first real experience working on AWS, an introduction to MapReduce, and opportunity to learn alongside a diverse group of people with a shared interest.
+
+Ultimately, I got my first job in industry via a short-term contract with a series A startup in Berkeley, California.
+As so often happens in these situations, the job ended up being something completely different than I signed up for.
+They hired me as a "Data Architect" and after less than a month, the CTO decided I should be called a "Systems Engineer" when printing business cards for the team.
+Over the course of just a few months, I learned a lot and made a big impact with a small team of 5 engineers.
+We built our own MapReduce framework using Docker Swarm with the orchestrator written using Docker's Python API (how this came to be is a story for another day).
+Then we refactored the existing monolithic LiDAR registration and alignment code into a series of three MapReduce steps.
+Throughout, I learned a lot about working on a shared codebase, merge requests, the value of unit tests, and wrote more lines of code in those three months than I did in my whole doctorate. 
+
+Once that contract ended, I got a job in the big 'R' research group at [HERE Technologies](https://www.here.com/).
+I started that role doing platform engineering work building tools to support the projects other members of the team were leading.
+This included some exploratory work testing various databases' geospatial query capabilities and writing a webapp that acted as a frontend for an internal data acquisition API.
+This webapp was a project I loved building and continued to support for a couple years after the main work on it was done.
+I built a Flask application that, given the data constraints someone wanted, would query the API for that data, download it onto S3, and then run an EMR pipeline of common data cleaning and preparation methods that were used across the team.
+Alongside this, I participated in algorithm development using GPS probe data for map maintenance and real-time traffic prediction.
+One project, using this data to predict road closures from probe data, resulted in a [patent application](https://patents.justia.com/patent/20200105134) and was published in a special issue of [ACM Transaction on Spatial Algorithms and Systems on Urban Mobility](https://doi.org/10.1145/3325912).
+Other work included development of a change detection pipeline using sensor data from vehicles to detect missing or changed map features in HERE's high definition map for autonomous vehicles.
+After a three years on the research team, I transferred to a team that brought this change detection pipeline into production.
+Bringing us to today, where I am on that same team, which is continuing to work on the change detection problem, and we have a new project building a data service that analyzes and caches streaming sensor data, sending bundles of co-spatial data to the change detection service. 
