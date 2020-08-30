@@ -25,6 +25,7 @@ github_username:  ghevcoul
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme
+markdown: kramdown
 
 # plugins:
 #   - jekyll-feed
