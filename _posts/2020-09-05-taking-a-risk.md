@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Jumping into the Unknown
+title: Taking a Risk
 subtitle: A Journey from Research to Devops
 author: Gavin
-slug: unknown-devops
+slug: risky-devops
 ---
 
 About a year ago, a new director was hired to lead the organization I'm part of at work. 
 Normally, this wouldn't be a particularly noteworthy event, but her arrival ultimately had a profound impact on the work I'm doing today.
 First, let's provide some context.
+<!--more-->
 
 In August of 2019, I transferred from the Research organization at HERE to an R&D team working in the autonomous driving group developing technology to derive a high-definition map from sensor data.
 I had actually been embedded in this team since the beginning of the year as part of a collaboration between them and Research to develop new algorithms for change detection in the map, so when I transferred the only thing that really changed for me was reporting to a new manager -- I was still a research engineer doing algorithm development, only now it was on a mixed team of research and software engineers.
@@ -47,4 +48,4 @@ We've gone through a number of iterations and made some mistakes (and hopefully 
 
 All of this is a rather long-winded way of saying thank you to the director of my team for listening to me a year ago and when an opportunity arose, taking a gamble that I was capable and giving me a chance to learn a whole new set of skills on the job. 
 Also, to my manager, who sight-unseen agreed to take on a researcher coming off a computational geometry C++ project as the owner of the devops processes for his Scala streaming pipeline.
-I will forever be grateful to both of them for believing in me and trusting that I could do the job despite having nothing in my background proving that.
+I will forever be grateful to both of them for believing in me and trusting that I could do the job.
