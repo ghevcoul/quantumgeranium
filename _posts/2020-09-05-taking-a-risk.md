@@ -6,7 +6,7 @@ author: Gavin
 slug: risky-devops
 ---
 
-About a year ago, a new director was hired to lead the organization I'm part of at work. 
+About a year ago, in September 2019, a new director was hired to lead the organization I'm part of at work. 
 Normally, this wouldn't be a particularly noteworthy event, but her arrival ultimately had a profound impact on the work I'm doing today.
 First, let's provide some context.
 <!--more-->
@@ -15,8 +15,8 @@ In August of 2019, I transferred from the Research organization at HERE to an R&
 I had actually been embedded in this team since the beginning of the year as part of a collaboration between them and Research to develop new algorithms for change detection in the map, so when I transferred the only thing that really changed for me was reporting to a new manager -- I was still a research engineer doing algorithm development, only now it was on a mixed team of research and software engineers.
 The project was wrapping up the preliminary research at the end of the summer and we were looking ahead to stabilizing the code and productionizing our deployment in the fall. 
 
-So, this was the situation when the new director took over on September 1.
-She is based in our Boulder office and has people spread across Boulder, Chicago, and Berkeley on the team.
+So, this was the situation when the new director took over on September 1st.
+She is based in our Boulder office and has people spread across the country in Boulder, Chicago, and Berkeley on the team.
 Sometime in September 2019, she came to visit the Berkeley office to get a chance to meet us.
 During that visit, she scheduled one-on-one meetings with each of us and it was during that first face-to-face interaction that I took a risk that paid off.
 There was the usual get to know you questions, "what are you working on?", "how long have you been with the company?", etc.
@@ -44,7 +44,7 @@ If you are keeping track at home, that's three for three on technologies I had n
 I hadn't written more than a couple hundred lines of code in any JVM language since my undergrad and while I'd done a decent amount with Docker, I'd never gotten a chance to use Kubernetes.
 We have a subscription to LinkedIn Learning at work, so I took a couple intro courses on Scala and Kubernetes and then dived into a sandbox for some hands-on learning.
 I put together a simple hello world REST app with Akka-HTTP (a really fun framework, with some interesting design patterns) and figured out how to deploy it onto Kubernetes.
-We've gone through a number of iterations and made some mistakes (and hopefully learned from them), but I'm proud to say at this point, a little over 4 months after starting on this project, we have a fully automated Gitlab pipeline that runs unit tests, builds the code, and can deploys it onto Kubernetes in multiple environments. 
+We've gone through a number of iterations and made some mistakes (and hopefully learned from them), but I'm proud to say at this point, a little over 4 months after starting on this project, we have a fully automated Gitlab pipeline that runs unit tests, builds the code, and can deploy it onto Kubernetes in multiple environments. 
 
 All of this is a rather long-winded way of saying thank you to the director of my team for listening to me a year ago and when an opportunity arose, taking a gamble that I was capable and giving me a chance to learn a whole new set of skills on the job. 
 Also, to my manager, who sight-unseen agreed to take on a researcher coming off a computational geometry C++ project as the owner of the devops processes for his Scala streaming pipeline.
