@@ -1,5 +1,8 @@
 - name: About Me
   link: about-me
+  dropdown:
+    - name: Resume (PDF)
+      link: /assets/resume-heverly-coulson.pdf
 - name: Publications
   link: publications
 - name: Blog
