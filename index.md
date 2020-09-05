@@ -2,15 +2,16 @@
 layout: page
 title: Quantum Geranium
 subtitle: The digital home of Gavin Heverly-Coulson
+
+show_sidebar: true
 ---
 
-# Who am I?
-* Technology enthusiast
-* Endlessly curious
-* Avid reader
-* PhD computational chemist
-* Lifelong gamer
-* Quasi-Canadian
+I am a PhD computational chemist turned software developer. 
+Currently living in Berkeley, California, I spent most of my adult life living in Canada. 
+I'm an endlessly curious technology enthusiast who is always ready to dive into the unknown and learn new things. 
+After leaving academia, I've started my industry career working in location technology and mapping.
+Outside of work, I'm an avid reader and a lifelong gamer (tabletop RPG, board, and video). 
+On the weekend, you can usually find me at whatever sidewalk fair or festival is happening in my neighbourhood.
 
 
 # What can I do?
@@ -35,19 +36,7 @@ subtitle: The digital home of Gavin Heverly-Coulson
 * Kubernetes + Helm
 * Docker
 * AWS -- EMR, EC2, Sagemaker, Cloudformation, Step Functions, Lambda
-
-
-# Resume
-## Work Experience
-* Mar 2019 -- Current, *HERE Technologies*, Lead Research Engineer
-* Jun 2016 -- Mar 2019, *HERE Technologies*, Senior Research Engineer
-* Jan 2016 -- Mar 2016, *Civil Maps*, Systems Engineer
-
-## Education
-* Spring 2015, *The Data Incubator*, Data Science Fellow
-* Sep 2012 -- Dec 2014, *Queen's University*, Kingston, Ontario, Postdoctoral Fellow
-* May 2008 -- Jul 2012, *Dalhousie University*, Halifax, Nova Scotia, PhD
-* Sep 2004 -- Apr 2008, *Bishop's University*, Sherbrooke, Quebec, BSc Honours
+* Gitlab
 
 
 # Where can you find me?
