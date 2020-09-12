@@ -54,7 +54,10 @@ peroxide by organoselenium antioxidants. One of the organoselenium
 compounds I examined was a diselenide that reacted with the peroxide to
 form water and Se-O double bond, as shown below.
 
-![Reaction of the Diselenide Antioxidant with Hydrogen Peroxide](/assets/diMe3amineRxn.jpg)
+{% include image.html
+    img="assets/img/diMe3amineRxn.jpg"
+    title="Chemical reaction of deselenide antioxidant with H2O2"
+    caption="Reaction of the Diselenide Antioxidant with Hydrogen Peroxide" %}
 
 Experimental reaction kinetics suggested that this was a one-step
 reaction, so I was trying to find a one-step reaction path. I was able
@@ -104,5 +107,8 @@ pattern with the first triggering the second and the second triggering
 the third, demonstrated in the animation below. This reaction has a
 barrier of between 40-50 kJ/mol depending on the thiol used.
 
-![Proton Shuttles - If you don't see animation, try clicking on the image.](/assets/ProtonShuttle.gif)
+{% include image.html
+    img="assets/img/ProtonShuttle.gif"
+    title="Animation of the Proton Shuttle"
+    caption="Proton Shuttles - If you don't see animation, try clicking on the image." %}
 
