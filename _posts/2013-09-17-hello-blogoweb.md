@@ -18,8 +18,10 @@ model that I am developing and testing with my postdoc supervisor is
 finally producing results that match with the established ways of
 calculating these things.
 
-![Blue dots show results from traditional way of doing things and the red
-line shows the results from our model.](/assets/VagueGraph-Sept17.png)
+{% figure caption:"Blue dots show results from traditional way of doing things and the red
+line shows the results from our model." %}
+![A vague graph](/assets/VagueGraph-Sept17.png)
+{% endfigure %}
 
 As you can see in the unlabeled graph above, the model and traditional
 way of doing things produce curves with the same slope, but offset

@@ -27,8 +27,8 @@ github_username:  ghevcoul
 remote_theme: chrisrhymes/bulma-clean-theme
 markdown: kramdown
 
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-figure
 
 # Setting to control creation of blog posts
 paginate: 10
