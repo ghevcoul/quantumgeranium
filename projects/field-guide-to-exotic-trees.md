@@ -53,6 +53,6 @@ I'm generally happy with the results of that, but I might make the two modifier 
 # The Future
 While I'm happy with the current state of this code, there are some areas that could be improved or added to when I get inspiration to come back to this.
 Years of academic papers means that I can't write up a project without a "future work" section, so in no particular order potential additions to this are:
-* Modify the tree generation algorithm to produce trees that look like other types of trees, the ones I'm think about currently are conifers and palms
+* The current tree generation algorithm produces decidedly deciduous trees, it'd be nice to support other types like conifers and palms
 * Expand the list of options for names so the results are less repetitive
 * Turn it into a "real" field guide by writing full entries for each tree, maybe using something like a [Markov chain](https://en.wikipedia.org/wiki/Markov_chain) trained on the Audubon guide to trees if I can get my hands on a digital copy
