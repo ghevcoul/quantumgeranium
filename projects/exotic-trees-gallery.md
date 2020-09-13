@@ -6,4 +6,4 @@ slug: exotic-trees-gallery
 gallery: exotic-trees-gallery
 ---
 
-# [What's is this?](/projects/field-guide-to-exotic-trees)
+# [What is this?](/projects/field-guide-to-exotic-trees)
