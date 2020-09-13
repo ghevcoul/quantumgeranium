@@ -1,0 +1,121 @@
+- title: 
+  images:
+    - link: /assets/exotic-trees/african-redwood.png
+      alt: An image of a randomly generated tree
+      description: African Redwood
+      ratio: is-square
+    
+    - link: /assets/exotic-trees/african-sycamore.png
+      alt: An image of a randomly generated tree
+      description: African Sycamore
+      ratio: is-square
+    
+    - link: /assets/exotic-trees/alpine-ginkgo.png
+      alt: An image of a randomly generated tree
+      description: Alpine Ginkgo
+      ratio: is-square
+
+    - link: /assets/exotic-trees/appalachian-chestnut.png
+      alt: An image of a randomly generated tree
+      description: Appalachian Chestnut
+      ratio: is-square
+
+    - link: /assets/exotic-trees/asian-cypress.png
+      alt: An image of a randomly generated tree
+      description: Asian Cypress
+      ratio: is-square
+
+    - link: /assets/exotic-trees/asian-flowering-oak.png
+      alt: An image of a randomly generated tree
+      description: Asian Flowering Oak
+      ratio: is-square
+
+    - link: /assets/exotic-trees/black-larch.png
+      alt: An image of a randomly generated tree
+      description: Black Larch
+      ratio: is-square
+
+    - link: /assets/exotic-trees/black-sequoia.png
+      alt: An image of a randomly generated tree
+      description: Black Sequoia
+      ratio: is-square
+
+    - link: /assets/exotic-trees/common-apple.png
+      alt: An image of a randomly generated tree
+      description: Common Apple
+      ratio: is-square
+
+    - link: /assets/exotic-trees/desert-larch.png
+      alt: An image of a randomly generated tree
+      description: Desert Larch
+      ratio: is-square
+
+    - link: /assets/exotic-trees/devils-ash.png
+      alt: An image of a randomly generated tree
+      description: Devil's Ash
+      ratio: is-square
+
+    - link: /assets/exotic-trees/eastern-coastal-redwood.png
+      alt: An image of a randomly generated tree
+      description: Eastern Coastal Redwood
+      ratio: is-square
+
+    - link: /assets/exotic-trees/european-swamp-plum.png
+      alt: An image of a randomly generated tree
+      description: European Swamp Plum
+      ratio: is-square
+
+    - link: /assets/exotic-trees/green-alder.png
+      alt: An image of a randomly generated tree
+      description: Green Alder
+      ratio: is-square
+
+    - link: /assets/exotic-trees/grey-plum.png
+      alt: An image of a randomly generated tree
+      description: Grey Plum
+      ratio: is-square
+
+    - link: /assets/exotic-trees/himalayan-poplar.png
+      alt: An image of a randomly generated tree
+      description: Himalayan Poplar
+      ratio: is-square
+
+    - link: /assets/exotic-trees/himalayan-silver-plum.png
+      alt: An image of a randomly generated tree
+      description: Himalayan Silver Plum
+      ratio: is-square
+
+    - link: /assets/exotic-trees/mediterranean-green-acacia.png
+      alt: An image of a randomly generated tree
+      description: Mediterranean Green Acacia
+      ratio: is-square
+
+    - link: /assets/exotic-trees/mediterranean-tropical-ash.png
+      alt: An image of a randomly generated tree
+      description: Mediterranean Tropical Ash
+      ratio: is-square
+
+    - link: /assets/exotic-trees/mountain-lemon.png
+      alt: An image of a randomly generated tree
+      description: Mountain Lemon
+      ratio: is-square
+
+    - link: /assets/exotic-trees/northern-alpine-elm.png
+      alt: An image of a randomly generated tree
+      description: Northern Alpine Elm
+      ratio: is-square
+
+    - link: /assets/exotic-trees/northern-red-walnut.png
+      alt: An image of a randomly generated tree
+      description: Northern Red Walnut
+      ratio: is-square
+
+    - link: /assets/exotic-trees/polish-blue-fig.png
+      alt: An image of a randomly generated tree
+      description: Polish Blue Fig
+      ratio: is-square
+
+    - link: /assets/exotic-trees/western-mountain-chestnut.png
+      alt: An image of a randomly generated tree
+      description: Western Mountain Chestnut
+      ratio: is-square

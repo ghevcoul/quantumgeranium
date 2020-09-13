@@ -5,5 +5,9 @@
       link: /assets/resume-heverly-coulson.pdf
 - name: Publications
   link: publications
+- name: Projects
+  dropdown:
+    - name: A Field Guide to Exotic Trees
+      link: /projects/exotic-trees-gallery
 - name: Blog
   link: blog
