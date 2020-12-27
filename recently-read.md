@@ -7,6 +7,7 @@ slug: recently-read
 
 In the spirit of the [Incomparable's](https://www.theincomparable.com/) [Recently Read](https://www.theincomparable.com/recentlyread/) podcast, a collection of short, off-the-cuff thoughts about books generally written within a few days of finishing them. 
 I will endeavour to keep these spoiler-light, any story beats I give away will be limited to the first few chapters of the book. 
+These will be collected in reverse chronological order, so the most recent postings will always be at the top. 
 
 ## Six Wakes by Mur Lafferty
 
