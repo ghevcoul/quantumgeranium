@@ -9,5 +9,9 @@
   dropdown:
     - name: A Field Guide to Exotic Trees
       link: /projects/exotic-trees-gallery
+- name: Recently...
+  dropdown:
+    - name: Read
+      link: recently-read
 - name: Blog
   link: blog
