@@ -9,6 +9,19 @@ In the spirit of the [Incomparable's](https://www.theincomparable.com/) [Recentl
 I will endeavour to keep these spoiler-light, any story beats I give away will be limited to the first few chapters of the book. 
 These will be collected in reverse chronological order, so the most recent postings will always be at the top. 
 
+## Every Heart a Doorway by Seanan McGuire
+
+I'm just going to start this by saying I loved this book.
+The book takes place at Elanor West's Home for Wayward Children, a boarding school for children who have gone through doorways to other worlds (à la Dorothy or Alice) and are now having difficulties reintegrating into our world.
+The world building is well-constructed and obviously done with an eye toward creating a playground to tell many stories in (as evidenced by the 5 published books in the series with 2 more on the way). 
+I really enjoyed the stories of the different worlds the students had visited, from the nonsensical *Confection*, a world where everything is made of candy and baked goods, to the spooky *Moors*, a world ruled over by a vampire with Frankenstein-style made scientists and sea monsters.
+
+In the end, this story is a great gateway into a much larger universe that McGuire clearly enjoys playing in.
+To be honest, at the time I'm writing this, I'm already most of the way through book three of the series and they just keep getting better.
+While *Every Heart a Doorway* remains firmly grounded in our world and the troubles of those who have returned to it, the other books leave our world behind to explore some of these fantasy lands introduced in the first entry to the series.
+They've been rollicking good fun to read so far, but what makes me want to keep coming back is the humanity she imbues the characters with.
+They are full characters who you believe existed long before their introduction and will continue to exist long after the story's conclusion, they aren't mere paper-doll cutouts used to drive a plot point. 
+
 ## Six Wakes by Mur Lafferty
 
 If I had to give a summary of this story it would be: 
