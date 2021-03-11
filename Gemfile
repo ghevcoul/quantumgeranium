@@ -13,3 +13,7 @@ gem "github-pages", group: :jekyll_plugins
 #   gem "jekyll-feed", "~> 0.12"
 # end
 gem "bulma-clean-theme"
+
+# Ruby 3.0.0 and Jekyll 3.9.0 are broken due to a library moving
+# This fixes it
+gem "webrick"
