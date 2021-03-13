@@ -19,6 +19,9 @@ We both had watched the series before, but not in at least 15 years, so after wa
 Just this week (over four months later), we've completed the re-watch of the show and I have some thoughts.
 I'm going to be less concerned about spoilers since this is 20 years old and it's hard to talk about a whole series with as much cultural impact as Buffy without getting into some details. 
 
+What follows is a lot of criticism of this show, which I stand behind and believe is entirely valid, but I do want to be clear up-front that I enjoyed re-watching Buffy and still think it is a worthwhile watch. 
+Buffy is very much a product of its time and has its flaws, but is also generally a very funny, clever show.
+
 #### Writing
 From a high level, I would say that the writing is a mixed bag. 
 There are certain characters and stories that really don't work in 2021, but some of the storylines are just as relevant and poignant today as they were when they first aired. 
@@ -81,8 +84,9 @@ The show does not do enough to call out the fact this relationship is gross at b
 Next, we have Buffy falling for her TA in the form of Riley.
 Another example of someone significantly older than her and this time in a position of authority over her! Ugh.
 Their relationship is generally better depicted than the Angel/Buffy pairing, but they had to ruin what little good there was with Riley's angst over "you'll never love me the way I love you". 
-It is perfectly acceptable for two people to love each other in different ways and to show that love differently.
-That would be called being human and I'm really tired of this trope.
+This relationship reaches its inevitable end when Buffy find Riley in some sort vampire brothel/drug den (it's really unclear what vibe they're going for) letting them feed off him because "at least they need me".
+To top it all off, Riley is a boring, pretty one-dimensional character outside of his inferiority complex about his girlfriend being strong and independent.
+He's a big strong military man, don't you know his toxic masculinity can't handle a strong capable girlfriend that doesn't rely on him?
 
 Finally we have Spike, who is a gigantic asshole from the time he's introduced on the show and (quite literally) tries to kill Buffy multiple times.
 In season 6, at the same time Willow is spiraling out of control, we see Buffy mirroring that behaviour by getting into a super toxic relationship with Spike that ends with him attempting to rape her.
