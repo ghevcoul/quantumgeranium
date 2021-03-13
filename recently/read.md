@@ -2,7 +2,8 @@
 layout: page
 title: Recently Read
 slug: recently-read
-#menubar_toc: true
+menubar_toc: true
+toc_title: Books
 ---
 
 In the spirit of the [Incomparable's](https://www.theincomparable.com/) [Recently Read](https://www.theincomparable.com/recentlyread/) podcast, a collection of short, off-the-cuff thoughts about books generally written within a few days of finishing them. 

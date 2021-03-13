@@ -12,8 +12,8 @@
 - name: Recently...
   dropdown:
     - name: Read
-      link: recently-read
+      link: /recently/read
     - name: Watched
-      link: recently-watched
+      link: /recently/watched
 - name: Blog
   link: blog
