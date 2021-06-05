@@ -6,10 +6,26 @@ menubar_toc: true
 toc_title: Movies & TV
 ---
 
-In the spirit of the [Incomparable's](https://www.theincomparable.com/) [Recently Read](https://www.theincomparable.com/recentlyread/) podcast, here is a collection of my thoughts on TV and movies I've recently watched. 
+In the spirit of [the Incomparable's](https://www.theincomparable.com/) [Recently Read](https://www.theincomparable.com/recentlyread/) podcast, here is a collection of my thoughts on TV and movies I've recently watched. 
 Like my [recently read](/recently-read), these will be short musings, written shortly after I've watched them. 
 Mostly, I think my family is getting tired of hearing me over-analyse the TV we watch together, so this will give me an outlet for it. 
 These will be collected in reverse chronological order, so the most recent postings will always be at the top. 
+
+
+## The Irregulars, season 1
+
+This is a fun show about a group of teens living on the streets of Victorian London who are approached by one Doctor John Watson to hire them to help he and his business partner, Sherlock Holmes, investigate crimes. 
+As you might have figured out, this is a retelling of the Sherlock Holmes stories told from the perspective of the Irregulars, his network of street urchins that collect evidence for him on his cases. 
+Ultimately, the presence of Sherlock and Watson matters very little to the series, they occasionally show up to give our crew a new mission, but the story is really about the five teens that are our stars. 
+It's a compelling, fun story about this group trying to find their place in the world and learning about themselves while going on exciting romps through Victorian London. 
+
+This does bring me to the major issue I have with *the Irregulars*, and it's not something unique to this show.
+There is a great story to be told here, but I feel like the fact that it's an adaptation of Doyle's Sherlock Holmes stories is more of a distraction from the story being told than an enhancement of it. 
+Watson popping in every episode to give the crew a new case doesn't really bring anything to story other than a moment of "hey, I know that character from those stories that are ingrained in our popular culture".
+Same goes for the episode where they go to see Sherlock and Watson's landlady, Mrs. Hudson, or Mycroft Holmes calls them in for a chat. 
+At the end of the day, I think this would have been a better story if it had been told as a 100% standalone tale set in Victorian London.
+They could use the exact same scripts and simply change the names of the characters borrowed for Doyle and it would have made for better storytelling, that's how little impact the existing Sherlock Holmes canon had. 
+It felt like the show was leveraging a well-known name to bring viewers in, rather than trusting their story to be good enough to do so on it's own merits. 
 
 
 ## Buffy the Vampire Slayer, seasons 1-7
